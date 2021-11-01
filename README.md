@@ -12,9 +12,9 @@
   <img align="center" alt="FIXER-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="FIXER-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="FIXER-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="FIXER-JAVA" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
-  <img align="center" alt="FIXER-CSS" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png">
-    <img align="center" alt="FIXER-CSS" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"
+    <img align="center" alt="FIXER-JAVA" height="30" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
+  <img align="center" alt="FIXER-PHP" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png">
+    <img align="center" alt="FIXER-C" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"
 </div>
  
   ##
