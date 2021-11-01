@@ -1,8 +1,6 @@
 ## Olá, sou Guilherme de Oliveira 👋
 
 - 🌱 Estou atualmente estudando Programação Web Fullstack
-- 😄 Pronouns: ele/dele
-
 <div align="center">
   <a href="https://github.com/FIXER3600">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FIXER3600&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
