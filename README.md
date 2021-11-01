@@ -1,4 +1,4 @@
-### Olá, sou Guilherme de Oliveira 👋
+## Olá, sou Guilherme de Oliveira 👋
 
 - 🌱 Estou atualmente estudando Programação Web Fullstack
 - 😄 Pronouns: ele/dele
