@@ -1,4 +1,4 @@
-## Olá, sou Guilherme de Oliveira 👋
+## Olá, sou Guilherme de Oliveira Barros 👋
 
 - 🌱 Estou atualmente estudando Programação Web Fullstack
 <div align="center">
