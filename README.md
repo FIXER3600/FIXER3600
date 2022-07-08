@@ -1,6 +1,6 @@
 ## Olá, sou Guilherme de Oliveira Barros 👋
 
-- 🌱 Estou atualmente estudando Programação Web Fullstack
+- 🌱 Estou atualmente estudando Programação Web Fullstack na [Labenu](https://github.com/future4code)
 <div align="center">
   <a href="https://github.com/FIXER3600">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FIXER3600&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
