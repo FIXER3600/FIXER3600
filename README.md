@@ -1,8 +1,8 @@
 ## Olá, sou Guilherme de Oliveira Barros 👋
 
-Desde 2019 venho adquirindo conhecimento e experiência em projetos web com o Front-end no curso de Desenvolvimento de Sistemas da Escola Técnica da Zona Leste (ETEC-ZL, São Paulo, SP) em que desenvolvi um aplicativo de monitoramento de suporte técnico como trabalho de conclusão de curso utilizando apenas HTML 5, CSS 3, Javascript e um banco de dados NoSQL, o Firebase.
+Desde 2019 venho adquirindo conhecimento e experiência em projetos web com o Front-end no curso de Desenvolvimento de Sistemas da [Escola Técnica da Zona Leste](https://eteczonaleste.com.br/) (ETEC-ZL, São Paulo, SP) em que desenvolvi um aplicativo de monitoramento de suporte técnico como trabalho de conclusão de curso utilizando apenas HTML 5, CSS 3, Javascript e um banco de dados NoSQL, o Firebase.
 
-Em 2020 iniciei meus estudos na Faculdade de Tecnologia da Zona Leste (FATEC-ZL, São Paulo, SP) onde estou atualmente cursando Análise e Desenvolvimento de Sistemas e que possuo maior contato com linguagem Java com Spring Boot, TSQL, VBA e COBOL. 
+Em 2020 iniciei meus estudos na [Faculdade de Tecnologia da Zona Leste](http://www.fateczl.edu.br/inicio) (FATEC-ZL, São Paulo, SP) onde estou atualmente cursando Análise e Desenvolvimento de Sistemas e que possuo maior contato com linguagem Java com Spring Boot, TSQL, VBA e COBOL. 
 
 Em 2021, entrei para a escola de programação [Labenu](https://github.com/future4code), onde mais focado em desenvolvimento web full stack, fiz parte da primeira turma Web Fullstack noturna e desenvolvi projetos como sites em Portfolios, sites comerciais e semelhantes a E-commerces como Ifood utilizando ReactJS, HTML5, CSS3 e Design Systems como Chakra UI e Material UI e consumindo API's REST.
 
