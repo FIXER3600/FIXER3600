@@ -22,8 +22,8 @@ Sempre buscando o código mais semântico, organizado e modular.
   <img align="center" alt="FIXER-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="FIXER-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
        <img align="center" alt="FIXER-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+     <img align='center' alt='FIXER-NODE' height='30' width='30' src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="FIXER-JAVA" height="40" width="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png">
-  <img align='center' alt='FIXER-NODE' height='30' width='30' src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="FIXER-C" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png">
     <img align='center' alt='FIXER-DART' height='30' width='30' src='https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg'>
     <img align='center' alt='FIXER-FLUTTER' height='30' witdth='30' src='https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg'>
