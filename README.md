@@ -8,8 +8,6 @@ Em 2021, entrei para a escola de programação [Labenu](https://github.com/futur
 
 Por último, mas não menos importante, no segundo semestre de 2022 iniciei meus estudos na área mobile na escola de programação [Lovepeople](https://www.lovepeople.com.br/) no curso de programação de aplicativos de duração de 6 meses, onde aprendi uma nova linguagem de programação orientada a objetos e fortemente tipada, o Dart, na qual fez-se necessário para o desenvolvimento com o framework Flutter, específico para desenvolvimento Mobile, criado pelo Google em 2015.
 
-Conhecimentos em desenvolvimento Web com HTML, CSS, JS, ReactJS, Typescript e BULMA. Aluno da escola de programação Labenu.
-
 Sempre buscando o código mais semântico, organizado e modular. 
 <div align="center">
   <a href="https://github.com/FIXER3600">
