@@ -26,6 +26,7 @@ Sempre buscando o código mais semântico, organizado e modular.
   <img align="center" alt="FIXER-PHP" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png"> 
     <img align="center" alt="FIXER-C" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png">
     <img align='center' alt='FIXER-DART' height='30' width='30' src='https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg'>
+    <img align='center' alt='FIXER-FLUTTER' height='30' witdth='30' src='https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg'>
 </div>
  
   ##
