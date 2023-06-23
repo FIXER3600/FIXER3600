@@ -7,6 +7,7 @@ Em 2020 iniciei meus estudos na [Faculdade de Tecnologia da Zona Leste](http://w
 Em 2021, entrei para a escola de programação [Labenu](https://github.com/future4code), onde mais focado em desenvolvimento web full stack, fiz parte da primeira turma Web Fullstack noturna e desenvolvi projetos como sites em Portfolios, sites comerciais e semelhantes a E-commerces como Ifood utilizando ReactJS, HTML5, CSS3 e Design Systems como Chakra UI e Material UI e consumindo API's REST.
 
 Por último, mas não menos importante, no segundo semestre de 2022 iniciei meus estudos na área mobile na escola de programação [Lovepeople](https://www.lovepeople.com.br/) no curso de programação de aplicativos de duração de 6 meses, onde aprendi uma nova linguagem de programação orientada a objetos e fortemente tipada, o Dart, na qual fez-se necessário para o desenvolvimento com o framework [Flutter](https://flutter.dev/), específico para desenvolvimento Mobile, criado pelo Google em 2015.
+Em 19 de Junho comecei minha experiência na área de tecnologia trabalhando como desenvolvedor Frontend trainee com Flutter na QA Academy, onde estou atualmente.
 
 Sempre buscando o código mais semântico, organizado e modular. 
 <div align="center">
