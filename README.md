@@ -1,13 +1,10 @@
 ## Olá, sou Guilherme de Oliveira Barros 👋
 
-Desde 2019 venho adquirindo conhecimento e experiência em projetos web com o Front-end no curso de Desenvolvimento de Sistemas da [Escola Técnica da Zona Leste](https://eteczonaleste.com.br/) (ETEC-ZL, São Paulo, SP) em que desenvolvi um aplicativo de monitoramento de suporte técnico como trabalho de conclusão de curso utilizando apenas HTML 5, CSS 3, Javascript e um banco de dados NoSQL, o Firebase.
+Sou um desenvolvedor Web com 4 anos de experiência na área, formado em Análise e Desenvolvimento de Sistemas. Tenho foco em back-end, com especialização em frameworks PHP como CodeIgniter e Laravel, desenvolvendo aplicações robustas e APIs RESTful.
 
-Em 2020 iniciei meus estudos na [Faculdade de Tecnologia da Zona Leste](http://www.fateczl.edu.br/inicio) (FATEC-ZL, São Paulo, SP) onde estou atualmente cursando Análise e Desenvolvimento de Sistemas e que possuo maior contato com linguagem Java com Spring Boot, TSQL, VBA e COBOL. 
+Também já atuei com React no front-end e Node.js no back-end, o que me permite contribuir em projetos full stack quando necessário.
 
-Em 2021, entrei para a escola de programação [Labenu](https://github.com/future4code), onde mais focado em desenvolvimento web full stack, fiz parte da primeira turma Web Fullstack noturna e desenvolvi projetos como sites em Portfolios, sites comerciais e semelhantes a E-commerces como Ifood utilizando ReactJS, HTML5, CSS3 e Design Systems como Chakra UI e Material UI e consumindo API's REST.
-
-Por último, mas não menos importante, no segundo semestre de 2022 iniciei meus estudos na área mobile na escola de programação [Lovepeople](https://www.lovepeople.com.br/) no curso de programação de aplicativos de duração de 6 meses, onde aprendi uma nova linguagem de programação orientada a objetos e fortemente tipada, o Dart, na qual fez-se necessário para o desenvolvimento com o framework [Flutter](https://flutter.dev/), específico para desenvolvimento Mobile, criado pelo Google em 2015.
-Em 19 de Junho de 2023 comecei minha experiência na área de tecnologia trabalhando como desenvolvedor Frontend trainee com Flutter na QA Academy, onde estou atualmente.
+Tenho experiência com metodologias ágeis como Scrum e Kanban, além de domínio em bancos de dados como MySQL, SQL Server e PostgreSQL.
 
 Sempre buscando o código mais semântico, organizado e modular. 
 <div align="center">
