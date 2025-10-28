@@ -1,6 +1,6 @@
 ## Olá, sou Guilherme de Oliveira Barros 👋
 
-Sou um desenvolvedor Web com 4 anos de experiência na área, formado em Análise e Desenvolvimento de Sistemas. Tenho foco em back-end, com especialização em frameworks PHP como CodeIgniter e Laravel, desenvolvendo aplicações robustas e APIs RESTful.
+Sou um desenvolvedor Web com 4 anos de experiência na área, formado em Análise e Desenvolvimento de Sistemas. Tenho foco em back-end, com especialização em frameworks PHP como CodeIgniter, Laravel e NodeJs, desenvolvendo aplicações robustas e APIs RESTful.
 
 Também já atuei com React no front-end e Node.js no back-end, o que me permite contribuir em projetos full stack quando necessário.
 
