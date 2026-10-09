@@ -1,12 +1,12 @@
-## Olá, sou Guilherme de Oliveira Barros 👋
+## Hello, I’m Guilherme de Oliveira Barros 👋
 
-Sou um desenvolvedor Web com 4 anos de experiência na área, formado em Análise e Desenvolvimento de Sistemas. Tenho foco em back-end, com especialização em frameworks PHP como CodeIgniter, Laravel e NodeJs, desenvolvendo aplicações robustas e APIs RESTful.
+I’m a Web Developer with 4 years of experience in the field and a degree in Systems Analysis and Development. I focus on back-end development, specializing in PHP frameworks such as CodeIgniter and Laravel, as well as Node.js, building robust applications and RESTful APIs.
 
-Também já atuei com React no front-end e Node.js no back-end, o que me permite contribuir em projetos full stack quando necessário.
+I’ve also worked with React on the front end and Node.js on the back end, which allows me to contribute to full-stack projects when needed.
 
-Tenho experiência com metodologias ágeis como Scrum e Kanban, além de domínio em bancos de dados como MySQL, SQL Server e PostgreSQL.
+I have experience with agile methodologies such as Scrum and Kanban, and solid knowledge of databases such as MySQL, SQL Server, and PostgreSQL.
 
-Sempre buscando o código mais semântico, organizado e modular. 
+I’m always striving for semantic, organized, and modular code.
 <div align="center">
   <a href="https://github.com/FIXER3600">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FIXER3600&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
