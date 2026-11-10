@@ -1,6 +1,6 @@
 ## Hello, I’m Guilherme de Oliveira Barros 👋
 
-I’m a Web Developer with 4 years of experience in the field and a degree in Systems Analysis and Development. I focus on back-end development, specializing in PHP frameworks such as CodeIgniter and Laravel, as well as Node.js, building robust applications and RESTful APIs.
+I’m a Web Developer with 2+ years of experience in the field and a degree in Systems Analysis and Development. I focus on back-end development, specializing in PHP frameworks such as CodeIgniter and Laravel, as well as Node.js, building robust applications and RESTful APIs.
 
 I’ve also worked with React on the front end and Node.js on the back end, which allows me to contribute to full-stack projects when needed.
 
